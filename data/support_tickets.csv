@@ -1,0 +1,21 @@
+ticket_id,customer_message,expected_category
+1,My internet bill is way higher this month and I don’t understand why,Billing
+2,The app crashes every time I try to log in,Technical Issue
+3,I need to update my email address on file,Account
+4,Why was my credit card charged twice?,Billing
+5,I can’t reset my password through the portal,Technical Issue
+6,I moved to a new address and need to update my account details,Account
+7,My bill shows a late fee but I paid on time,Billing
+8,The mobile app is not loading on my Android phone,Technical Issue
+9,Can you change the phone number associated with my account?,Account
+10,There’s an unexpected international call charge on my bill,Billing
+11,The website gives me an error when I try to check out,Technical Issue
+12,I forgot the email address tied to my account,Account
+13,My autopay didn’t go through and I was charged a penalty,Billing
+14,The desktop app freezes whenever I upload a file,Technical Issue
+15,I want to add a secondary user to my account,Account
+16,Why did my bill increase after switching plans?,Billing
+17,The live chat feature won’t load on the website,Technical Issue
+18,I need to close my account permanently,Account
+19,I was promised a discount but it’s not on my bill,Billing
+20,The app logs me out every 10 minutes automatically,Technical Issue

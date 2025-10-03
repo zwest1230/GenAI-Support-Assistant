@@ -1,0 +1,14 @@
+# Never commit secrets
+.env
+
+# Ignore Jupyter checkpoints and untitled notebooks
+*checkpoint.ipynb
+Untitled*.ipynb
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
