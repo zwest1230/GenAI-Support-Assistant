@@ -1,3 +1,5 @@
+![Demo Screenshot]("assets\Screenshot.png")
+
 🤖 Gen AI Customer Support Assistant
 
 This project demonstrates how Generative AI can be applied to customer support workflows. Using a dataset of mock support tickets, the notebook classifies issues, summarizes customer concerns, and drafts professional replies.
